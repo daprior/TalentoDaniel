@@ -1,0 +1,26 @@
+{
+    "Teams": [{
+            "Name": "Team1",
+            "Player": [
+                "Player11",
+                "Player12",
+                "Player13"
+            ],
+            "Trainer": [
+                "Trainer11",
+                "Trainer12"
+            ]
+        },
+        {
+            "Name": "Team2",
+            "Player": [
+                "Player21",
+                "Player22",
+                "Player23"
+            ],
+            "Trainer": [
+                "Trainer21"
+            ]
+        }
+    ]
+}
